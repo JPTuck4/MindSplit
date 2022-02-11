@@ -18,7 +18,7 @@
 
 This game was inspired by the board game Magic Maze pictured below, a cooperative game where players work together to move warriors through a shopping mall so they can find their weapons. The catch is each player can only move the pawns in one direction and players aren't alowed to communicate by any means other than a big red pawn that the can put in front of someone in order to passive aggresively inform them that they need to do something.
 
-
+![MagicMaze.jfif]
 
 **X-Statement:** Work with your friends to simultaneously control multiple shapes! Can many minds move as one?
 
